@@ -1,11 +1,11 @@
-<h2 align="center">Hi 👋! <br>My name is Tawrat Yeasin and I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies.</h2>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV5NzU2ejh4bXQya3lhaTAwZnVwYnk0anpuMGk2OHNiYWNxZjYwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Q5fSHyPKfrr2/giphy.webp" alt="MasterHead">
+</p>
 
-###
-
-<img align="right" height="150" src="https://giffiles.alphacoders.com/219/219517.gif"  />
-
-###
-
+<h1 align="center">Hi 👋! I'm Tawrat Yeasin</h1>
+<h2 align="center"> <br>I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies.</h2>
+<img align="right" height="250"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdnamt4M2dsaW9pdXpteWNxYTg5M3J4N3FpNnIwNDE5eWZubGZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fimCE9py83ptv4K3WW/giphy.webp">
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
