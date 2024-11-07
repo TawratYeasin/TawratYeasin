@@ -5,7 +5,10 @@
 <h1 align="center">Hi 👋! I'm Tawrat Yeasin</h1>
 <h2 align="center"> <br>I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies.</h2>
 <img align="right" height="250"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdnamt4M2dsaW9pdXpteWNxYTg5M3J4N3FpNnIwNDE5eWZubGZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fimCE9py83ptv4K3WW/giphy.webp">
-  
+
+
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -17,6 +20,10 @@
 </div>
 
 ###
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <div align="left">
   <a href="https://www.instagram.com/__m00nshine___/" target="_blank">
