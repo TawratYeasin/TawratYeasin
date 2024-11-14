@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋! I'm Tawrat Yeasin</h1>
-<h2 align="center"> <br>I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies.</h2>
+I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies. Currently, I'm studying at the United International University(UIU). As a student of EEE, There isn't much study in coding but few like C++, VHDL, and MATLAB.
+
+
 <img align="right" height="250"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdnamt4M2dsaW9pdXpteWNxYTg5M3J4N3FpNnIwNDE5eWZubGZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fimCE9py83ptv4K3WW/giphy.webp">
 
 
