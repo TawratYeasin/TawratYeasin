@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋! I'm Tawrat Yeasin</h1>
 I’m an Electrical and Electronic Engineering (EEE) student with a strong interest in circuit design, simulation, and automation technologies. Currently, I'm studying at the United International University(UIU). As a student of EEE, There isn't much study in coding but few like C++, VHDL, and MATLAB.
+Proficient in circuit design using tools like Cadence, AutoCAD, Silos, Proteus, PSpice, and more, I specialize in translating innovative ideas into precise diagrams. Coding is a skill and a passion; I enjoy optimizing electronic systems using platforms like Code::Blocks and Matlab. A perpetual learner, I stay updated on semiconductor technology and electronic design methodologies, committed to academic excellence. Open to collaborations and networking, I am eager to connect with professionals who share my enthusiasm. My goal is to contribute significantly to the evolution of electronic systems as a semiconductor engineer. Seeking opportunities aligned with this vision, I welcome connections for discussions, collaborations, or insights related to semiconductor engineering and electronic design.
 <img align="right" height="250"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdnamt4M2dsaW9pdXpteWNxYTg5M3J4N3FpNnIwNDE5eWZubGZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fimCE9py83ptv4K3WW/giphy.webp">
 
 
